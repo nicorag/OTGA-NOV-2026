@@ -53,7 +53,7 @@ MAPA BATIMÉTRICO / GEOMORFOLÓGICO
 PUBLICACIÓN
        ↓
 REPRODUCIBILIDAD
- 
+```
 ---
 
 # 📚 ORGANIZACIÓN DE LA JORNADA
@@ -97,7 +97,7 @@ PROCESAMIENTO
 PRODUCTO GEOFÍSICO
       ↓
 INTERPRETACIÓN
-```
+
 
 ## ¿Qué mide la geofísica marina?
 
