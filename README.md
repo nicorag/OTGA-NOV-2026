@@ -695,13 +695,13 @@ En este repositorio se incorporarán progresivamente:
 
 # 👥 RESPONSABLES
 
-### Lic. Eva Noli
-
-**Módulo 4 — Introducción a la geomática y uso de software para confeccionar mapas batimétricos y geomorfológicos**
-
 ### Geof. Guillermo A. Nicora
 
 **Módulo 3 — Conceptos básicos de geofísica marina y sus aplicaciones**
+
+### Lic. Eva Noli
+
+**Módulo 4 — Introducción a la geomática y uso de software para confeccionar mapas batimétricos y geomorfológicos**
 
 ---
 
