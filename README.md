@@ -60,12 +60,12 @@ REPRODUCIBILIDAD
 
 La jornada del martes estará organizada en dos módulos complementarios que convergen en una actividad práctica integradora.
 
-| Horario     | Actividad                                                                                                       | Responsable                    |
-| ----------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| 08:30–10:30 | Módulo 3 – Conceptos básicos de geofísica marina y sus aplicaciones                                             | Geof. Guillermo A. Nicora      |
-| 10:30–10:45 | Pausa                                                                                                           |                                |
-| 10:45–11:45 | Módulo 4 – Introducción a la geomática y uso de software para confeccionar mapas batimétricos y geomorfológicos | Lic. Eva Noli                  |
-| 11:45–13:00 | Actividad práctica integradora                                                                                  | Eva Noli / Guillermo A. Nicora |
+| Horario     | Actividad                                                                                                       | Responsable                               |
+| ----------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 08:30–10:30 | Módulo 3 – Conceptos básicos de geofísica marina y sus aplicaciones                                             | Geof. Guillermo A. Nicora                 |
+| 10:30–10:45 | Pausa                                                                                                           |                                           |
+| 10:45–11:45 | Módulo 4 – Introducción a la geomática y uso de software para confeccionar mapas batimétricos y geomorfológicos | Lic. Eva Noli                             |
+| 11:45–13:00 | Actividad práctica integradora                                                                                  | Lic. Eva Noli / Geof. Guillermo A. Nicora |
 
 La actividad práctica buscará integrar los contenidos de ambos módulos mediante el procesamiento y visualización de datos geoespaciales marinos.
 
