@@ -77,7 +77,8 @@ La actividad práctica buscará integrar los contenidos de ambos módulos median
 
 ## Objetivos
 
-El módulo tiene como objetivo introducir los principales conceptos relacionados con la adquisición e interpretación de datos geofísicos marinos y comprender qué información del medio marino puede obtenerse a partir de diferentes métodos de exploración.
+El módulo tiene como objetivo introducir los principales conceptos relacionados con la adquisición e interpretación de datos geofísicos marinos y 
+comprender qué información del medio marino puede obtenerse a partir de diferentes métodos de exploración.
 
 Se trabajará sobre la relación:
 
@@ -97,7 +98,7 @@ PROCESAMIENTO
 PRODUCTO GEOFÍSICO
       ↓
 INTERPRETACIÓN
-
+```
 
 ## ¿Qué mide la geofísica marina?
 
